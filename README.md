@@ -224,7 +224,7 @@ We get: `│└┴┘│`&#1569;.
 
 -----
 
-Isn't it amazing that there is only one possible way to connect them!? Well, that is the by the laws of topology. But we can forget about them. A simple rules is: if people choose how friendly they are going to be to their neighbors (friendly to the left `┘`, to the right `└`, or better, to both neighbors `┴`, or worse, to none of the neibours `│`, then *you can always satisfy them in a neighborhood (not in a building, but a contryside where you have houses side by side!)
+Isn't it amazing that there is only one possible way to connect them!? Well, that is the by the laws of topology. But we can forget about them. A simple rules is: if people choose how friendly they are going to be to their neighbors (friendly to the left `┘`, to the right `└`, or better, to both neighbors `┴`, or worse, to none of the neibours `│`, then you can always satisfy them in a neighborhood (not in a building, but a contryside where you have houses side by side!)
 
 
 
