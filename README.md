@@ -80,9 +80,10 @@ All consonants of shape class `2:{│, └}` are: `د، ر، ز، ژ، ۋ، ھ`.
 
 All other consonants are of shape class `4:{│, ┴, └, ┘}`. 
 
-Check out this alphabet ![here][ULY]!.
+Here is the Uyghur Arabic Script Alphabet along with the Latin Script:
 
-[ULY]: https://upload.wikimedia.org/wikipedia/commons/0/0c/UEY_ULY_Elipbesi_Kichik.jpg  "Uyghur UEY ULY"
+[here][ULY]
+
 
 ### Vowel Classification
 
@@ -238,3 +239,5 @@ This set of rules are a result of my continuing effort in trying to teach our la
 I hope this routine could be taught in schools where kids can **play** in their classes taking roles as the four base shapes. This way of learning is much fun, and can give very clear idea fo the script for the students from the beginnin.
 
 These are my original ideas. Please cite this website http://hyiltiz.com/uyghur-topology if you used this work either commertially or non-commercially. 
+
+[ULY]: https://upload.wikimedia.org/wikipedia/commons/0/0c/UEY_ULY_Elipbesi_Kichik.jpg  "Uyghur UEY ULY"
