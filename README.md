@@ -80,10 +80,7 @@ All consonants of shape class `2:{│, └}` are: `د، ر، ز، ژ، ۋ، ھ`.
 
 All other consonants are of shape class `4:{│, ┴, └, ┘}`. 
 
-Here is the Uyghur Arabic Script Alphabet along with the Latin Script:
-
-![][ULY]
-
+Check out this alphabet [here!][https://upload.wikimedia.org/wikipedia/commons/0/0c/UEY_ULY_Elipbesi_Kichik.jpg].
 
 ### Vowel Classification
 
@@ -227,7 +224,7 @@ We get: `│└┴┘│`&#1569;.
 
 -----
 
-Isn't it amazing that there is only one possible way to connect them!? Well, that is the by the laws of topology. But we can forget about them. A simple rules is: if people choose how friendly they are going to be to their neighbors (friendly to the left `┘`, to the right `└`, or better, to both neighbors `┴`, or worse, to none of the neibours `│`, then *you can always satisfy them in a neighborhood (not in a building, but a contryside where you have houses side by side!)
+Isn't it amazing that there is only one possible way to connect them!? Well, that is the by the laws of topology. But we can forget about them. A simple rules is: if people choose how friendly they are going to be to their neighbors (friendly to the left `┘`, to the right `└`, or better, to both neighbors `┴`, or worse, to none of the neibours `│`, then you can always satisfy them in a neighborhood (not in a building, but a contryside where you have houses side by side!)
 
 
 
@@ -237,7 +234,3 @@ Isn't it amazing that there is only one possible way to connect them!? Well, tha
 This set of rules are a result of my continuing effort in trying to teach our language and its script to students, freinds who speak Uyghur but trying to learn how to write, and also to friends who do *not* speak the language itself, but tryint to learn. This topology based approach is very universal so that students can learn how to write **before** they are familiar with the full alphabet and all the different shapes of each and every letters. You can even play with this set of rules in your own language!
 
 I hope this routine could be taught in schools where kids can **play** in their classes taking roles as the four base shapes. This way of learning is much fun, and can give very clear idea fo the script for the students from the beginnin.
-
-These are my original ideas. Please cite this website http://hyiltiz.com/uyghur-topology if you used this work either commertially or non-commercially. 
-
-[ULY]: https://upload.wikimedia.org/wikipedia/commons/0/0c/UEY_ULY_Elipbesi_Kichik.jpg  "Uyghur UEY ULY"
