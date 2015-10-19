@@ -94,7 +94,7 @@ All other vowels are of shape class `2:{│, └}`.
 
 Letter are connected in a way that reduces open ends. An easier way of saying this is: 
 
->> Always hold hands whenever possible. (Be friendly!)
+> Always hold hands whenever possible. (Be friendly!)
 
 ### Consonants and vowels
 
