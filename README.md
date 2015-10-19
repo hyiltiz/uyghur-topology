@@ -82,7 +82,7 @@ All other consonants are of shape class `4:{│, ┴, └, ┘}`.
 
 Here is the Uyghur Arabic Script Alphabet along with the Latin Script:
 
-[here][ULY]
+![][ULY]
 
 
 ### Vowel Classification
