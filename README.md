@@ -80,9 +80,9 @@ All consonants of shape class `2:{│, └}` are: `د، ر، ز، ژ، ۋ، ھ`.
 
 All other consonants are of shape class `4:{│, ┴, └, ┘}`. 
 
-Check out this alphabet ![here](ULY)!.
+Check out this alphabet ![here][ULY]!.
 
-[ULY]: https://upload.wikimedia.org/wikipedia/commons/0/0c/UEY_ULY_Elipbesi_Kichik.jpg
+[ULY]: https://upload.wikimedia.org/wikipedia/commons/0/0c/UEY_ULY_Elipbesi_Kichik.jpg  "Uyghur UEY ULY"
 
 ### Vowel Classification
 
