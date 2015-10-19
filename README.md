@@ -234,3 +234,5 @@ Isn't it amazing that there is only one possible way to connect them!? Well, tha
 This set of rules are a result of my continuing effort in trying to teach our language and its script to students, freinds who speak Uyghur but trying to learn how to write, and also to friends who do *not* speak the language itself, but tryint to learn. This topology based approach is very universal so that students can learn how to write **before** they are familiar with the full alphabet and all the different shapes of each and every letters. You can even play with this set of rules in your own language!
 
 I hope this routine could be taught in schools where kids can **play** in their classes taking roles as the four base shapes. This way of learning is much fun, and can give very clear idea fo the script for the students from the beginnin.
+
+These are my original ideas. Please cite this website http://hyiltiz.com/uyghur-topology if you used this work either commertially or non-commercially. 
